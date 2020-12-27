@@ -1,0 +1,25 @@
+.projects .ml1 {
+	color: #2C5F2DFF;
+}
+.projects{
+	background-color: #FFE77AFF;
+}
+.flex-box{
+	display: flex;
+	justify-content: space-between;
+}
+
+.item {
+	margin: 20px;
+	background-color: white;
+	height: 300px;
+	width: 250px;
+	border: 2px solid black;
+}
+
+.item img{
+	height: 100%;
+	max-width: 100%;
+	display: block;
+	margin: auto;
+}

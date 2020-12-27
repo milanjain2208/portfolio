@@ -1,0 +1,14 @@
+div.top-description {
+	background-color: #ADEFD1FF;
+	height: 700px;
+	display: flex;
+	align-items: top;
+}
+img	{
+	margin: 50px;
+	height: 80%;
+    max-width: 100%;
+}
+.animated-intro{
+	margin: 150px;
+}
